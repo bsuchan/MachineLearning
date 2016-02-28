@@ -1,5 +1,5 @@
 # MachineLearning
-##Project assignment for Coursera Practical Machine Learning assignment
+#Project assignment for Coursera Practical Machine Learning assignment
 ##This is the writeup on the project assignment for Machine Learning.
 ##It is about predicting how well people are performing fitness activities
 ## based on data from accelerometers on the belt, forearm, arm, and dumbbell
